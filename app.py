@@ -11,9 +11,7 @@ horsepower = st.number_input('Horsepower', value = 130, placeholder='Enter value
 
 weight = st.number_input('Weight', value = 3000, placeholder='Enter value for Weight')
 
-acceleration = st.number_input('Acceleration', value = 12, placeholder='Enter value for Acceleration')..
-.
-
+acceleration = st.number_input('Acceleration', value = 12, placeholder='Enter value for Acceleration')
 
 
 
